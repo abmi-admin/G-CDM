@@ -1,5 +1,5 @@
 # G-CDM
-OMOP-CDM Extension for genomic data
+Genomic CDM (G-CDM): OMOP-CDM Extension for clinical sequencing data
 
 # How to run
 
